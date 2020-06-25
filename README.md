@@ -8,6 +8,6 @@ id,urlのcsvでurlが生きてるかががっとチェックするscript
 
 this repository clone
 
-./url_check.sh
+./url_check.sh [csv_file_path]
 
 output.csv => id,url,code
